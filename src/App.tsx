@@ -8,7 +8,7 @@ export const App = () => {
     
     <>
       <h1>
-        React Typescript - {process.env.NODE_ENV} {process.env.name}
+        React Typescript 
       </h1>
       <img src={IMAGE} alt="React Logo" width="200" height="200" />
       <img src={LOGO} alt="React Logo" width="200" />
