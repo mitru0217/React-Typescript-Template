@@ -8,7 +8,7 @@ export const App = () => {
     
     <>
       <h1>
-        React Typescript 
+        React Typescript Template 
       </h1>
       <img src={IMAGE} alt="React Logo" width="200" height="200" />
       <img src={LOGO} alt="React Logo" width="200" />
